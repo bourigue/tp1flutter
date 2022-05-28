@@ -26,6 +26,7 @@ class _BottomNavDemoState extends State<BottomNavDemo> {
             new BottomNavigationBarItem(
                 label: 'Following',
                 icon: new Icon(Icons.terrain)),
+
             new BottomNavigationBarItem(
                 label: 'Search',
                 icon: new Icon(Icons.search_rounded)),
